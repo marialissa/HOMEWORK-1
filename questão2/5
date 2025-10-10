@@ -2,19 +2,124 @@
 
     #ITEM-05
 
+
         #grupo-italiano
-    
+            #idade
+            idade_italiana <- c(28,37,39,43,58,52,33,46)
+            hist(idade_italiana,
+     main = "Histograma de idade (italianos)",
+     xlab = "Idade",
+     ylab = "Frequência",
+     col = "skyblue",
+     border = "white")
+
+            #renda-desejada
+            renda_italiana <- c(2.3,2.1,1.2,2.8,3.4,1.1,1.7,3.2)
+            hist(renda_italiana,
+     main = "Histograma de renda (italianos)",
+     xlab = "Renda",
+     ylab = "Frequência",
+     col = "pink",
+     border = "white")
+
     
         #grupo-ingles
-    
+            #idade
+            idade_inglesa <- c(34,44)
+            hist(idade_inglesa,
+     main = "Histograma de idade (ingleses)",
+     xlab = "Idade",
+     ylab = "Frequência",
+     col = "skyblue",
+     border = "white")
+
+            #renda-desejada
+            renda_inglesa <- c(1.6,2.7)
+            hist(renda_inglesa,
+     main = "Histograma de renda (ingleses)",
+     xlab = "Renda",
+     ylab = "Frequência",
+     col = "pink",
+     border = "white")
+
     
         #grupo-belga
-    
+            #idade
+            idade_belga <- c(46,31)
+            hist(idade_belga,
+     main = "Histograma de idade (belgas)",
+     xlab = "Idade",
+     ylab = "Frequência",
+     col = "skyblue",
+     border = "white")
+
+            #renda-desejada
+            renda_belga <- c(1.2,1.4)
+            hist(renda_belga,
+     main = "Histograma de renda (belgas)",
+     xlab = "Renda",
+     ylab = "Frequência",
+     col = "pink",
+     border = "white")
+
+
     
         #grupo-espanhol
+            #idade
+            idade_espanhola <- c(26,29,23)
+            hist(idade_espanhola,
+     main = "Histograma de idade (espanhois)",
+     xlab = "Idade",
+     ylab = "Frequência",
+     col = "skyblue",
+     border = "white")
+
+            #renda-desejada
+            renda_espanhola <- c(0.9,1.6,1.2)
+            hist(renda_espanhola,
+     main = "Histograma de renda (espanhois)",
+     xlab = "Renda",
+     ylab = "Frequência",
+     col = "pink",
+     border = "white")
     
     
         #grupo-frances
+            #idade
+            idade_francesa <- c(51,25,48)
+    hist(idade_francesa,
+     main = "Histograma de idade (franceses)",
+     xlab = "Idade",
+     ylab = "Frequência",
+     col = "skyblue",
+     border = "white")
+
+            #renda-desejada
+            renda_francesa <- c(1.8,1.6,2)
+            hist(renda_francesa,
+     main = "Histograma de renda (franceses)",
+     xlab = "Renda",
+     ylab = "Frequência",
+     col = "pink",
+     border = "white")
     
-    
+
+
         #grupo-alemao
+            #idade
+            idade_alema <- c(42,38)
+            hist(idade_alema,
+     main = "Histograma de idade (alemaes)",
+     xlab = "Idade",
+     ylab = "Frequência",
+     col = "skyblue",
+     border = "white")
+
+            #renda-desejada
+            renda_alema <- c(2.5,2.1)
+            hist(renda_alema,
+     main = "Histograma de renda (alemaes)",
+     xlab = "Renda",
+     ylab = "Frequência",
+     col = "pink",
+     border = "white")
