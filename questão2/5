@@ -33,6 +33,6 @@
                     names = c("Italiana", "Inglesa", "Belga", "Espanhola", "Francesa", "Alema"),
                     main = "Distribuicao da renda por nacionalidade",
                     xlab = "Nacionalidade",
-                    ylab = "Idade ",
+                    ylab = "Renda ",
                     col = "pink",
                     border = "darkblue")
