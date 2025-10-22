@@ -13,7 +13,7 @@ install.packages("tidyverse")
 
 install.packages("knitr")
 
-Ademais, para a terceira questão, colocamos o arquivo "HW1_bike_sharing", no mesmo lugar em que está o arquivo do projeto do RStudio, pois, quando você abre um Projeto, o RStudio automaticamente define o "Diretório de Trabalho" (a "pasta de busca" do R) para a pasta raiz do seu projeto. Por isso, quando você pede para ler "HW1_bike_sharing.csv", ele o encontra sem problemas.
+Ademais, para a terceira questão, colocamos o arquivo "HW1_bike_sharing.csv", no mesmo lugar em que está o arquivo do projeto do RStudio, pois, quando você abre um Projeto, o RStudio automaticamente define o "Diretório de Trabalho" (a "pasta de busca" do R) para a pasta raiz do seu projeto. Por isso, quando você pede para ler "HW1_bike_sharing.csv", ele o encontra sem problemas.
 
 ### Contribuições dos membros:
 Lorena: questão 2 e parte da 3.
