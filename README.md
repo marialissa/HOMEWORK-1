@@ -2,7 +2,7 @@
 ## Lorena e Maria Lissa
 ### Descrição do projeto:
 
-Resolução da lista de exercícios da professora Michela Mulas. O maior obejetivo é a revisão e familiarização com os conceitos de estatística descritiva.
+Resolução da lista de exercícios da professora Michela Mulas. O maior objetivo é a revisão e familiarização com os conceitos de estatística descritiva.
 
 ### Instruções de Execução e dependências:
 R version 4.5.1
