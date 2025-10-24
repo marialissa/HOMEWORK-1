@@ -22,4 +22,9 @@ Lorena: questão 2 e parte da 3.
 
 Maria Lissa: questão 1 e parte da 3.
 
+### Uso da IA no trabalho:
+
+Durante o trabalho, pedimos à IA para nos auxiliar com a organização no LaTeX, ou seja, construir tabelas com os dados e inserir equações/fórmulas mais complexas para o melhor entendimento do documento. Portanto, nos restringimos apenas a esse uso para a linguagem do LaTeX. Por exemplo, na primeira questão, quisemos expor a fórmula da variância, então uma pergunta feita a IA foi: "Como posso representar a fórmula da variância no Overleaf?". Além disso, utilizamos também para auxiliar na instalação do RStudio.
+
+Em relação ao R e as explicações, não utilizamos a IA. Procuramos referências em sites e documentos que foram indicados pela professora em seus slides. 
 
